@@ -1,4 +1,4 @@
-e-Market — Sistema de Fluxo de Vendas
+E-Market — Sistema de Fluxo de Vendas
 
 Sistema de banco de dados relacional desenvolvido para gerenciar clientes, produtos, categorias, pedidos e estoque.
 
